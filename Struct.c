@@ -2,7 +2,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <time.h>
-//branch merge
+
 int xi;
 int xj;
 int ar[8];
