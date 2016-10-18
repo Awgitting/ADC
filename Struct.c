@@ -2,8 +2,6 @@
 #include <math.h>
 #include <stdlib.h>
 #include <time.h>
-#include <string.h>
-//#bbranch
 
 int xi;
 int xj;
